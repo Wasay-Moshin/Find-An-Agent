@@ -19,7 +19,7 @@ function AgentForm() {
           </h1>
         </div>
       </div>
-      <div className="w-[500px] h-[300px] p-6 border border-gray-200 rounded-2xl shadow bg-gray-400 bg-opacity-50 backdrop-filter backdrop-blur-lg ml-24 -mt-96">
+      <div className="w-[500px] h-[300px] p-6 border-transparent  rounded-2xl shadow bg-gray-400 bg-opacity-50 backdrop-filter backdrop-blur-lg ml-24 -mt-96">
         <div>
           <select
             name="country"
@@ -63,7 +63,7 @@ function AgentForm() {
                 This Area Only
               </option>
             </select>
-            <span className="text-xs text-white uppercase pl-12">Radius</span>
+            <span className="text-xs text-white uppercase pl-20">Radius</span>
           </div>
         </div>
         <div className="ml-[400px]">
