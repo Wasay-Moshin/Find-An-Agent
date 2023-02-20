@@ -12,13 +12,6 @@ function AgentForm() {
           alt=""
         />
       </div>
-      {/* <div className="absolute left-1/2 -translate-x-1/2 mt-6">
-        <img
-          className="w-[100% "
-          src="assets/findanagent/Rectangle 901.png"
-          alt=""
-        />
-      </div> */}
       <div className="flex justify-center mt-8">
         <div className="bg-black  w-[600px] h-[420px] rounded-2xl">
           <h1 className="text-white text-center uppercase text-xs tracking-widest pt-3">
